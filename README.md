@@ -2,7 +2,7 @@
 ### Hi there, I'm Léo 👋
 
 I'm a electrical engineering undergraduate student that recently discovered a new passion: software development. 
-Currently I'm improoving my skills on developing beautiful Front-end applications using React.js and reliable Back-end APIs using Node.js.
+Currently I'm improving my skills on developing beautiful Front-end applications using React.js and reliable Back-end APIs using Node.js.
 
 ### Languages and tools:
 
