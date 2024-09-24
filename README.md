@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Léo 👋
 
 I'm a former electrical engineering undergraduate student that recently discovered a new passion: software development. 
@@ -38,14 +37,6 @@ Currently I'm improving my skills on developing beautiful Front-end applications
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=leoguzi&count_private=true"/>
-
-### You can reach me here:
-
-<a href="mailto:leoguzi@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/leoguzi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/leoguzi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-
 <!--
 **leoguzi/leoguzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
