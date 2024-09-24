@@ -1,40 +1,12 @@
-### Hi there, I'm Léo 👋
+### Hi there, I'm Leo 👋
 
-I'm a former electrical engineering undergraduate student that recently discovered a new passion: software development. 
-Currently I'm improving my skills on developing beautiful Front-end applications using React.js and reliable Back-end APIs using Node.js.
+👋 Hi! I'm Léo, a Full-stack web developer with 3 years of experience. I work with TypeScript and Angular on the front-end and ASP.NET on the back-end, and have experience with Node.js, React.js, and automated testing using Cypress. I'm also used to work with agile methodologies such as Scrum and Kanban.
 
-### Languages and tools:
+🎓 I'm currently studying Information Technology at the Federal University of Santa Catarina.
 
-#### **Front-end**
+🚀 I'm always open to learning new technologies and tackling complex challenges.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-
-#### **Back-end**
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-#### **Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![husky](https://img.shields.io/badge/Husky-b0b0d5?style=flat-square)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-
-
-<br><br>
+💡 I enjoy writing clean, well-structured code, following Clean Code practices, and ensuring quality with automated testing, always focusing on efficiency and performance.
 
 <img src="https://github-readme-stats.vercel.app/api?username=leoguzi&count_private=true"/>
 <!--
